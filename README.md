@@ -1,6 +1,5 @@
 ## 🧩 Project Preview
 
-![MyBooksManagementSystem Screenshot](images/intellij.png)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange)
 ![Coursera Project](https://img.shields.io/badge/Coursera-Java%20Programming%20Lab-green)
