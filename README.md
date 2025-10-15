@@ -47,5 +47,5 @@ While building this project, I practiced:
 ---
 
 ⭐ **If you found this project helpful, consider giving it a star!**  
-📬 Connect with me on (https://www.linkedin.com/in/davit-gochiashvili/)or visit my [GitHub Profile](https://github.com/gochiashvilidavit)
+📬 Connect with me on (https://www.linkedin.com/in/davit-gochiashvili/) or visit my [GitHub Profile](https://github.com/gochiashvilidavit)
 
